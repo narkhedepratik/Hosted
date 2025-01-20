@@ -1,0 +1,6 @@
+.background{
+  background-image: url('./assets/images/bacjground_image.jpeg');
+  height: 716px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
